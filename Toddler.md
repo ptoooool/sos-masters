@@ -5,4 +5,5 @@
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
 |ChunSam|[yayyhr](https://github.com/yayyhr)|
 |Minchul Kang|[kangtegong](https://github.com/kangtegong)|
-|sos-master-apply|[sos-master-apply](https://github.com/sos-master-apply)|
+|sos-apply-masters|[sos-apply-masters](https://github.com/sos-apply-masters)|
+|ptoooool|[ptoooool](https://github.com/sos-apply-masters)|
